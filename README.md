@@ -21,13 +21,15 @@ If you downloaded Roblox Studio previously & logged in, all you need to do is la
 I would personally recommend investigating the code first, however - as some of the gameplay is not complete, and the
 value of the project is in its underlying systems.
 Also, the ranges from 2 to 0 years old, so it may have varying casing styles as my programming evolved overtime from 10th grade.
-	Aspects of the project that I can confidently say are complete significantly enough:
-		* Flowing Systems Manager
-		* Celestial Bodies Spawner & Star Manager
-		* Everything in CoreSystems. The new EntityComponentSystem is a work in progress in terms of implementation, but the groundwork works well.
-		* The stuff in Game_Functionality works, even if it's not refactored.
-		* Review Saving_Modules, it contains
-		* Terrain Generation's code needs to be refactored, but is complete. You can find it in Terrain_Modules.Terrain_Generator3.2415926535897932384626
+Aspects of the project that I can confidently say are complete significantly enough:
+
+* Flowing Systems Manager
+* Celestial Bodies Spawner & Star Manager
+* Everything in CoreSystems. The new EntityComponentSystem is a work in progress in terms of implementation, but the groundwork works well.
+* The stuff in Game_Functionality works, even if it's not refactored.
+* Review Saving_Modules, it contains
+* Terrain Generation's code needs to be refactored, but is complete. You can find it in Terrain_Modules.Terrain_Generator3.2415926535897932384626
 		
 Happy reviewing,
+
 Petra
